@@ -4,11 +4,11 @@
 
 module.exports = {
   // Bot user token, found on Discord Devs website:
-  token: '',
+  token: 'NDg3Njg4NDg2MzY3OTIwMTM5.DoQjtQ.v4GYPMwFqzyV_tnDNIXYfMktT38',
   // The bot app's client ID:
-  clientId: '',
+  clientId: '487688486367920139',
   // Commands should be preceded by this string:
-  prefix: '@mention',
+  prefix: 'ar!',
   // Moment.js date format to use:
-  dateFormat: 'YY-MM-DD HH:mm',
+  dateFormat: 'DD-MM-YY HH:mm',
 };
